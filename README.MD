@@ -1,0 +1,1 @@
+Minesweeper challenge, part of a Java Course.
